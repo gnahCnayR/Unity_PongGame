@@ -1,6 +1,6 @@
 # Unity_PongGame
 
-![Sample Game](Screenshot 2023-05-21 175109.png)
+![Sample Game](/Screenshot 2023-05-21 175109.png)
 
 ## About 
 

@@ -23,5 +23,3 @@ To move paddle up press: '↑'
 
 To move paddle down press: '↓'
 ```
-## License
-Distributed under MIT license. 
